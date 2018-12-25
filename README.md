@@ -4,13 +4,13 @@ Library to generate eos public key from a hierarchical deterministic wallet acco
 ## Get started
 This library is distributed in both the npm packaging systems.
 
-```$shell
+```sh
 npm install eos-bip44
 ```
 
 ## Example
 
-```$js
+```sh
 
 var EOSBIP44 = require("eos-bip44")
 
