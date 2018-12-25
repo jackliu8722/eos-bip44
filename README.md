@@ -6,11 +6,12 @@ This library is distributed in both the npm packaging systems.
 
 ```sh
 npm install eos-bip44
+
 ```
 
 ## Example
 
-```sh
+```javascript
 
 var EOSBIP44 = require("eos-bip44")
 
