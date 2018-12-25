@@ -1,0 +1,29 @@
+{
+  "name": "eos-bip44",
+  "version": "1.0.0",
+  "description": "Library to generate eos public key from a hierarchical deterministic wallet according to the BIP44 standard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackliu8722/eos-bip44.git"
+  },
+  "keywords": [
+    "eos",
+    "bip44"
+  ],
+  "author": "jackliu8722",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackliu8722/eos-bip44/issues"
+  },
+  "homepage": "https://github.com/jackliu8722/eos-bip44#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bitcore-lib": "^0.16.0",
+    "bitcore-mnemonic": "^1.7.0",
+    "eosjs-ecc": "^4.0.4"
+  }
+}
